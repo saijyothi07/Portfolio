@@ -1,0 +1,36 @@
+.resume-section {
+    padding: 50px 30px;
+    background-color:#0f172a;
+    text-align: center;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .resume-section h2 {
+    font-size: 2rem;
+    color: #38bdf8;
+    margin-bottom: 1rem;
+  }
+  
+  .resume-section p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    color:#f1f5f9;
+  }
+  
+  .download-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    transition: background-color 0.3s;
+  }
+  
+  .download-btn:hover {
+    background-color: #0056b3;
+  }
+  

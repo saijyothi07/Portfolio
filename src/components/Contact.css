@@ -1,0 +1,41 @@
+.contact {
+  text-align: center;
+  padding: 50px 20px;
+  background-color:#0f172a;
+}
+
+.contact h2 {
+  color: #38bdf8;
+  margin-bottom: 20px;
+}
+
+.contact p {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+}
+
+.email-link {
+  color: skyblue;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+}
+
+.social-icons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.social-icons a {
+  color: white;
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #333;
+}
